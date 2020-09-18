@@ -47,8 +47,11 @@ def send_mail():
     # 发送邮件连接
     try:
         server = smtplib.SMTP()
+        server.set_debuglevel(1)# 设置输出debug调试信息，默认不输出
+        #server = smtplib.SMTP_SSL(Hoster)
         server.connect(Hoster)
-        server.starttls()
+        server.ehlo()# 使用ehlo指令像ESMTP（SMTP扩展）确认你的身份
+        server.starttls()# 使SMTP连接运行在TLS模式，所有的SMTP指令都会被加密
         server.login(User,Pwd)
         server.sendmail(Sender,receiver,msg.as_string())
         server.quit()
