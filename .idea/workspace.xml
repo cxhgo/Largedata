@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/API/lib/sendmail.py" line="50" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="597974c3-6aba-4103-8809-986c7f4468ff" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/package/HTMLTestRunnerone.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/newreport.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/testcase/testAPI.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/config/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/2020-09-16 19_30_17result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/excelReport/APITestCase.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/readexcel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/2020-09-16 19_29_23result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/database/APITestCase.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/interface.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/database/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/sendrequests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/sendmail.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/package/__init__.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/config/setting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/writeexcel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/testcase/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/sendmail.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/run_demo.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/writeexcel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/excelReport/APITestCase.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/testcase/testAPI.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/readexcel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/config/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/2020-09-16 19_29_23result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/package/HTMLTestRunnerone.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/database/APITestCase.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/database/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/testcase/__init__.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/database/config.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/package/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/sendrequests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/interface.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/lib/newreport.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/APITest/API/report/2020-09-16 19_30_17result.html" afterPath="" />
     </list>
     <ignored path="interface.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,7 +48,7 @@
     <SUITE FILE_PATH="coverage/interface$Unittest_DemoAPI_test_API.coverage" NAME="Unittest DemoAPI.test_API Coverage Results" MODIFIED="1590054327179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
     <SUITE FILE_PATH="coverage/interface$Unittest_Demo_API_test_api__4_.coverage" NAME="Unittest Demo_API.test_api (4) Coverage Results" MODIFIED="1590053740715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
     <SUITE FILE_PATH="coverage/interface$Unittests_in_Demo_API__3_.coverage" NAME="Unittests in Demo_API (3) Coverage Results" MODIFIED="1591849734905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
-    <SUITE FILE_PATH="coverage/interface$run_demo.coverage" NAME="run_demo Coverage Results" MODIFIED="1600310549483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
+    <SUITE FILE_PATH="coverage/interface$run_demo.coverage" NAME="run_demo Coverage Results" MODIFIED="1600484770952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
     <SUITE FILE_PATH="coverage/interface$Unittests_in_HTMLTestRunnerNew.coverage" NAME="Unittests in HTMLTestRunnerNew Coverage Results" MODIFIED="1592466838151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/package" />
     <SUITE FILE_PATH="coverage/interface$Unittest_DemoAPI_test_01.coverage" NAME="Unittest DemoAPI.test_01 Coverage Results" MODIFIED="1590054462122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
     <SUITE FILE_PATH="coverage/interface$Unittest_Demo_API_test_api__2_.coverage" NAME="Unittest Demo_API.test_api (2) Coverage Results" MODIFIED="1590053719724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
@@ -67,7 +70,7 @@
     <SUITE FILE_PATH="coverage/interface$Unittests_in_Demo_API__2_.coverage" NAME="Unittests in Demo_API (2) Coverage Results" MODIFIED="1591848275026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
     <SUITE FILE_PATH="coverage/interface$Unittest_Demo_API_test_api__3_.coverage" NAME="Unittest Demo_API.test_api (3) Coverage Results" MODIFIED="1590053704301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
     <SUITE FILE_PATH="coverage/interface$Unittest_DemoAPI_test_01__2_.coverage" NAME="Unittest DemoAPI.test_01 (2) Coverage Results" MODIFIED="1590054091138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
-    <SUITE FILE_PATH="coverage/interface$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1593316158220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/lib" />
+    <SUITE FILE_PATH="coverage/interface$sendmail.coverage" NAME="sendmail Coverage Results" MODIFIED="1600482836999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/lib" />
     <SUITE FILE_PATH="coverage/interface$Unittest_Demo_API_test_api__1_.coverage" NAME="Unittest Demo_API.test_api (1) Coverage Results" MODIFIED="1590053711566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/testcase" />
     <SUITE FILE_PATH="coverage/interface$readexcel.coverage" NAME="readexcel Coverage Results" MODIFIED="1593602394824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/lib" />
     <SUITE FILE_PATH="coverage/interface$newreport.coverage" NAME="newreport Coverage Results" MODIFIED="1595476583579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API/lib" />
@@ -82,10 +85,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="testAPI.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testAPI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/API/testcase/testAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6918919">
+            <state vertical-scroll-proportion="0.0">
               <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
               <folding />
             </state>
@@ -132,11 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendmail.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sendmail.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/API/lib/sendmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.6918919">
+              <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -176,7 +179,7 @@
         <entry file="file://$PROJECT_DIR$/API/database/config.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -211,9 +214,9 @@
         <option value="$PROJECT_DIR$/API/lib/readexcel.py" />
         <option value="$PROJECT_DIR$/API/testcase/testAPI.py" />
         <option value="$PROJECT_DIR$/API/run_demo.py" />
-        <option value="$PROJECT_DIR$/API/database/config.ini" />
-        <option value="$PROJECT_DIR$/API/lib/sendmail.py" />
         <option value="F:/工作/自动化/interface/API/lib/sendmail.py" />
+        <option value="$PROJECT_DIR$/API/lib/sendmail.py" />
+        <option value="$PROJECT_DIR$/API/database/config.ini" />
       </list>
     </option>
   </component>
@@ -223,8 +226,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="792" />
-    <option name="y" value="172" />
+    <option name="x" value="805" />
+    <option name="y" value="188" />
     <option name="width" value="1103" />
     <option name="height" value="787" />
   </component>
@@ -253,7 +256,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -391,12 +393,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\node.js\node.exe" />
-    <property name="last_opened_file_path" value="F:/工作/自动化/jiekou" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
@@ -406,7 +409,7 @@
       <recent name="F:\工作\自动化\interface\API\package" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.testAPI">
+  <component name="RunManager" selected="Python.run_demo">
     <configuration default="false" name="run_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -728,8 +731,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.testAPI" />
-        <item index="1" class="java.lang.String" itemvalue="Python.run_demo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.run_demo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testAPI" />
         <item index="2" class="java.lang.String" itemvalue="Python.newreport" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Demo_API.test_demoapi" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in Demo_API" />
@@ -782,16 +785,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="172" width="1103" height="787" extended-state="0" />
+    <frame x="805" y="188" width="1103" height="787" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20331186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38709676" sideWeight="0.50321984" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38709676" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38709676" sideWeight="0.49678013" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1131,14 +1134,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/lib/newreport.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/API/lib/writeexcel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1155,6 +1150,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/API/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/工作/自动化/interface/API/lib/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/API/lib/newreport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/API/lib/sendrequests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1163,18 +1182,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/database/config.ini">
+    <entry file="file://$PROJECT_DIR$/API/testcase/testAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/API/__init__.py">
+    <entry file="file://$PROJECT_DIR$/API/database/config.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1189,24 +1208,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/lib/sendmail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/工作/自动化/interface/API/lib/sendmail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="59" selection-start-line="55" selection-start-column="59" selection-end-line="55" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/API/testcase/testAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6918919">
-          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <caret line="60" column="30" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
           <folding />
         </state>
       </provider>
