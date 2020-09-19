@@ -30,7 +30,7 @@ def run_case(all_case,result_path=setting.Test_Report):
     now = time.strftime("%Y-%m-%d %H_%M_%S")
     filename = result_path+'/'+now+'result.html'
     fp = open(filename,'wb')
-    runner = HTMLTestRunner(stream=fp,title='大数据接口自动化测试报告',description=u"大数据app接口用例测试情况",
+    runner = HTMLTestRunner(stream=fp,title='大数据接口自动化测试报告',description=u"大数据接口用例测试情况",
                             tester='归乐'
                             )
     runner.run(all_case)
